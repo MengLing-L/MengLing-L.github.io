@@ -19,3 +19,10 @@ Publications
 - <strong>Efficient multiplicative-to-additive function from Joye-Libert cryptosystem and its application to threshold ECDSA.</strong> [PDF](https://eprint.iacr.org/2023/1312.pdf)
   - Haiyang Xue, Man Ho Au, <strong>Mengling Liu</strong>, Kwan Yin Chan, Handong Cui, Xiang Xie, Tsz Hon Yuen, Chengru Zhang
   - ACM Conference on Computer and Communications Security (CCS), 2023.
+
+Research Competition
+======
+- <strong>ZPrize 23/24: High Throughput Signature Verification. (Cash Award 250,000 USD)</strong>
+  - Compiling the ECDSA signature verification process as a Circuit in Varuna.
+- <strong>ZPrize 22/23 PLONK-DIZK GPU Acceleration. (Cash Award 550,000 USD)</strong>
+  - Distributing Plonk and accelerating it via GPU.
