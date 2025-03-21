@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Liu Mengling"
 title_separator          : "-"
 name                     : &name "LIU Mengling"
 description              : &description "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
