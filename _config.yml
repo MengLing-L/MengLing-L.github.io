@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "LIU Mengling"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University (PolyU)"
+  # employer         : ""
   uri              : # URL
   email            : "mengling.liu@connect.polyu.hk" 
 
