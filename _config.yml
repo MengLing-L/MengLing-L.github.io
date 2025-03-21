@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liu Mengling"
+title                    : "Mengling Liu"
 title_separator          : "-"
-name                     : &name "LIU Mengling"
+name                     : &name "Mengling Liu"
 description              : &description "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
 url                      : https://mengling-l.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "MengLing-L/MengLing-L.github.io"
 author:
   # Biographic information
   avatar           : "lml.jpeg"
-  name             : "LIU Mengling (刘梦玲)"
+  name             : "Mengling Liu(刘梦玲)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong"
