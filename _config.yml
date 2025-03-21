@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "LIU Mengling"
 description              : &description "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
@@ -23,9 +23,9 @@ repository               : "MengLing-L/MengLing-L.github.io"
 author:
   # Biographic information
   avatar           : "lml.jpeg"
-  name             : #
+  name             : "LIU Mengling (刘梦玲)"
   pronouns         : # example: "she/her"  
-  bio              : #
+  bio              : "PhD Candidate, The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong"
   # employer         : ""
   uri              : # URL

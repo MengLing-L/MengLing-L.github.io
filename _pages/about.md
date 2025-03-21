@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Liu Mengling (刘梦玲)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D student at the Department of Computing, The Hong Kong Polytechnic University (PolyU), supervised by [Professor AU Man Ho Allen](https://web.comp.polyu.edu.hk/mhaau/)
+I am a third-year Ph.D student at the Department of Computing, The Hong Kong Polytechnic University (PolyU), supervised by [Professor AU Man Ho Allen](https://web.comp.polyu.edu.hk/mhaau/).
 
 Publications
 ======
