@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third-year Ph.D student at the Department of Computing, The Hong Kong Polytechnic University (PolyU), supervised by [Professor AU Man Ho Allen](https://web.comp.polyu.edu.hk/mhaau/). Here is my [CV](Mengling_Liu_CV.pdf).
+I am currently a third-year Ph.D student at the Department of Computing, The Hong Kong Polytechnic University (PolyU), supervised by [Professor AU Man Ho Allen](https://web.comp.polyu.edu.hk/mhaau/). Here is my [CV](_pages/Mengling_Liu_CV.pdf).
 
 I am interested in zero-knowledge proofs, threshold cryptography, designing protocols, and implementing them.
 
