@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am currently a third-year Ph.D student at the Department of Computing, The Hong Kong Polytechnic University (PolyU), supervised by [Professor AU Man Ho Allen](https://web.comp.polyu.edu.hk/mhaau/). 
 
-I am interested in zero-knowledge proofs, threshold cryptography, designing algorithms, and implementing them.
+I am interested in zero-knowledge proofs, threshold cryptography, designing protocols, and implementing them.
 
 
 <!-- Education
