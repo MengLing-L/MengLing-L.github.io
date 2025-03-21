@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mengling Liu"
+title: "Liu Mengling (刘梦玲)"
 author_profile: true
 redirect_from: 
   - /about/
