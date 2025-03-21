@@ -10,9 +10,10 @@ I am currently a third-year Ph.D student at the Department of Computing, The Hon
 
 I am interested in zero-knowledge proofs, threshold cryptography, designing algorithms, and implementing them.
 
-<!-- 
-Education
+
+<!-- Education
 ======
+- 
 
 Work Experiences
 ====== -->
@@ -31,8 +32,8 @@ Work Experiences
 
 Research Papers 
 ======
--  <strong>Mengling Liu</strong>, Yang Heng, Xingye Lu, Man Ho Au. [JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field](),<strong>S&P 2025</strong>
-- Zhikang Xie, <strong>Mengling Liu</strong>, Haiyang Xue, Man Ho Au, Robert H. Deng, Siu-Ming Yiu. [Direct Range Proofs for Paillier Cryptosystem and Their Applications.](https://eprint.iacr.org/2024/1355.pdf), <strong>CCS 2024</strong>
+-  <strong>Mengling Liu</strong>, Yang Heng, Xingye Lu, Man Ho Au. [JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field](), <strong>S&P 2025</strong>
+- Zhikang Xie, <strong>Mengling Liu</strong>, Haiyang Xue, Man Ho Au, Robert H. Deng, Siu-Ming Yiu. [Direct Range Proofs for Paillier Cryptosystem and Their Applications](https://eprint.iacr.org/2024/1355.pdf), <strong>CCS 2024</strong>
 - Haiyang Xue, Man Ho Au, <strong>Mengling Liu</strong>, Kwan Yin Chan, Handong Cui, Xiang Xie, Tsz Hon Yuen, Chengru Zhang. [Efficient multiplicative-to-additive function from Joye-Libert cryptosystem and its application to threshold ECDSA](https://eprint.iacr.org/2023/1312.pdf), <strong>CCS 2023</strong>
 
 Research Competition
