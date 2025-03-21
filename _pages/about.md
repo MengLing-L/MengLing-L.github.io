@@ -23,7 +23,7 @@ Publications
 Research Competition
 ======
 - <strong>ZPrize 23/24: High Throughput Signature Verification. (250,000 USD Cash Award)</strong> 
-  - Compiling the ECDSA signature verification process as a Circuit in Varuna.
+  - Compiling the ECDSA signature verification process as a circuit in Varuna.
   - [[Github](https://github.com/MengLing-L/zprize-ecdsa-varuna)],[[PolyU News](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0524_zprize-allen-au-2024/?sc_lang=en)]
 - <strong>ZPrize 22/23 PLONK-DIZK GPU Acceleration. (550,000 USD Cash Award)</strong> 
   - Distributing Plonk and accelerating it via GPU.
