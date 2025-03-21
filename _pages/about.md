@@ -10,7 +10,7 @@ redirect_from:
 
 Publications
 ======
-- <strong>JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field.</strong>[PDF]()
+- <strong>JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field.</strong> [PDF]()
   - <strong>Mengling Liu</strong>, Yang Heng, Xingye Lu, Man Ho Au
   - IEEE Symposium on Security and Privacy (S&P), 2025
 - <strong>Direct Range Proofs for Paillier Cryptosystem and Their Applications.</strong> [PDF](https://eprint.iacr.org/2024/1355.pdf)
