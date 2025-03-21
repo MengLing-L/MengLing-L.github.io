@@ -10,12 +10,12 @@ I am currently a third-year Ph.D student at the Department of Computing, The Hon
 
 I am interested in zero-knowledge proofs, threshold cryptography, designing algorithms, and implementing them.
 
-
+<!-- 
 Education
 ======
 
 Work Experiences
-======
+====== -->
 
 <!-- Research Papers 
 ======
