@@ -19,7 +19,7 @@ I am interested in zero-knowledge proofs, threshold cryptography, designing prot
 Work Experiences
 ====== -->
 
-Research Papers 
+<!-- Research Papers 
 ======
 - <strong>JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field.</strong> [[PDF]()]
   - <strong>Mengling Liu</strong>, Yang Heng, Xingye Lu, Man Ho Au
@@ -29,8 +29,13 @@ Research Papers
   - ACM Conference on Computer and Communications Security (CCS), 2024.
 - <strong>Efficient multiplicative-to-additive function from Joye-Libert cryptosystem and its application to threshold ECDSA.</strong> [[PDF](https://eprint.iacr.org/2023/1312.pdf)]
   - Haiyang Xue, Man Ho Au, <strong>Mengling Liu</strong>, Kwan Yin Chan, Handong Cui, Xiang Xie, Tsz Hon Yuen, Chengru Zhang
-  - ACM Conference on Computer and Communications Security (CCS), 2023.
+  - ACM Conference on Computer and Communications Security (CCS), 2023. -->
 
+Research Papers 
+======
+-  <strong>Mengling Liu</strong>, Yang Heng, Xingye Lu, Man Ho Au. [JesseQ: Efficient Zero-Knowledge Proofs for Circuits over Any Field](https://eprint.iacr.org/2025/533), <strong>S&P 2025</strong>, [[Github](https://github.com/MengLing-L/JesseQ)]
+- Zhikang Xie, <strong>Mengling Liu</strong>, Haiyang Xue, Man Ho Au, Robert H. Deng, Siu-Ming Yiu. [Direct Range Proofs for Paillier Cryptosystem and Their Applications](https://eprint.iacr.org/2024/1355.pdf), <strong>CCS 2024</strong>
+- Haiyang Xue, Man Ho Au, <strong>Mengling Liu</strong>, Kwan Yin Chan, Handong Cui, Xiang Xie, Tsz Hon Yuen, Chengru Zhang. [Efficient multiplicative-to-additive function from Joye-Libert cryptosystem and its application to threshold ECDSA](https://eprint.iacr.org/2023/1312.pdf), <strong>CCS 2023</strong>
 
 Research Competition
 ======
@@ -39,5 +44,4 @@ Research Competition
   - [[Github](https://github.com/MengLing-L/zprize-ecdsa-varuna)],[[PolyU News](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0524_zprize-allen-au-2024/?sc_lang=en)]
 - <strong>ZPrize 22/23: PLONK-DIZK GPU Acceleration. (550,000 USD Cash Award)</strong> 
   - Enhancing Plonk with GPU acceleration and distribution.
-  - [[Github](https://github.com/z-prize/2022-entries/tree/main/open-division/prize3-plonk-dizk/winderica)],[[PolyU News](https://www.polyu.edu.hk/media/media-releases/2023/0517_polyu-scholars-win-zprize-for-ground-breaking-web3-technology/)] 
-
+  - [[Github](https://github.com/z-prize/2022-entries/tree/main/open-division/prize3-plonk-dizk/winderica)],[[PolyU News](https://www.polyu.edu.hk/media/media-releases/2023/0517_polyu-scholars-win-zprize-for-ground-breaking-web3-technology/)]
